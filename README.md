@@ -1,1 +1,1 @@
-# vaibhav-blog.github.io
+# blog
