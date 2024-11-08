@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on VJBlogs</title>
-    <link>https://vaibhavnath-jha.github.io/blog/tags/</link>
+    <link>https://vaibhavnath-jha.github.io/tags/</link>
     <description>Recent content in Tags on VJBlogs</description>
     <generator>Hugo -- 0.137.0</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 08 Nov 2024 09:19:22 +0100</lastBuildDate>
-    <atom:link href="https://vaibhavnath-jha.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://vaibhavnath-jha.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docs</title>
-      <link>https://vaibhavnath-jha.github.io/blog/tags/docs/</link>
+      <link>https://vaibhavnath-jha.github.io/tags/docs/</link>
       <pubDate>Fri, 08 Nov 2024 09:19:22 +0100</pubDate>
-      <guid>https://vaibhavnath-jha.github.io/blog/tags/docs/</guid>
+      <guid>https://vaibhavnath-jha.github.io/tags/docs/</guid>
       <description></description>
     </item>
     <item>
       <title>PaperMod</title>
-      <link>https://vaibhavnath-jha.github.io/blog/tags/papermod/</link>
+      <link>https://vaibhavnath-jha.github.io/tags/papermod/</link>
       <pubDate>Fri, 08 Nov 2024 09:19:22 +0100</pubDate>
-      <guid>https://vaibhavnath-jha.github.io/blog/tags/papermod/</guid>
+      <guid>https://vaibhavnath-jha.github.io/tags/papermod/</guid>
       <description></description>
     </item>
   </channel>
