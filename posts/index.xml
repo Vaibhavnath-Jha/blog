@@ -6,7 +6,7 @@
     <description>Recent content in Posts on VJBlogs</description>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 May 2025 23:09:06 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 27 May 2025 20:22:26 +0200</lastBuildDate>
     <atom:link href="https://blog.vaibhavnath.in/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
@@ -14,6 +14,13 @@
       <pubDate>Mon, 19 May 2025 23:09:06 +0200</pubDate>
       <guid>https://blog.vaibhavnath.in/posts/2024/11/setting-up-the-blog-page/</guid>
       <description>Setting up the blog page and tackling few challenges on the way to make it work.</description>
+    </item>
+    <item>
+      <title>Apex Domain and DNS</title>
+      <link>https://blog.vaibhavnath.in/posts/2025/05/apex-domain-and-dns/</link>
+      <pubDate>Tue, 27 May 2025 20:22:26 +0200</pubDate>
+      <guid>https://blog.vaibhavnath.in/posts/2025/05/apex-domain-and-dns/</guid>
+      <description>Using Hetzner&amp;rsquo;s name server instead of GoDaddy and re-directing the apex domain to this site.</description>
     </item>
   </channel>
 </rss>
