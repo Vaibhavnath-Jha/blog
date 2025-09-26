@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Hetzner on VJBlogs</title>
-    <link>https://blog.vaibhavnath.in/tags/hetzner/</link>
-    <description>Recent content in Hetzner on VJBlogs</description>
+    <title>Proxmox on VJBlogs</title>
+    <link>https://blog.vaibhavnath.in/tags/proxmox/</link>
+    <description>Recent content in Proxmox on VJBlogs</description>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 21 Sep 2025 13:05:21 +0200</lastBuildDate>
-    <atom:link href="https://blog.vaibhavnath.in/tags/hetzner/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.vaibhavnath.in/tags/proxmox/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Degoogling my life - Part I</title>
       <link>https://blog.vaibhavnath.in/posts/2025/09/degoogling-my-life/</link>
       <pubDate>Sun, 21 Sep 2025 13:05:21 +0200</pubDate>
       <guid>https://blog.vaibhavnath.in/posts/2025/09/degoogling-my-life/</guid>
       <description>This is my journey of getting independence from the data overlords at Google, one service at a time.</description>
-    </item>
-    <item>
-      <title>Apex Domain and DNS</title>
-      <link>https://blog.vaibhavnath.in/posts/2025/05/apex-domain-and-dns/</link>
-      <pubDate>Tue, 27 May 2025 20:22:26 +0200</pubDate>
-      <guid>https://blog.vaibhavnath.in/posts/2025/05/apex-domain-and-dns/</guid>
-      <description>Using Hetzner&amp;rsquo;s name server instead of GoDaddy and re-directing the apex domain to this site.</description>
     </item>
   </channel>
 </rss>

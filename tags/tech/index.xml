@@ -6,8 +6,15 @@
     <description>Recent content in Tech on VJBlogs</description>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 May 2025 20:22:26 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 21 Sep 2025 13:05:21 +0200</lastBuildDate>
     <atom:link href="https://blog.vaibhavnath.in/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Degoogling my life - Part I</title>
+      <link>https://blog.vaibhavnath.in/posts/2025/09/degoogling-my-life/</link>
+      <pubDate>Sun, 21 Sep 2025 13:05:21 +0200</pubDate>
+      <guid>https://blog.vaibhavnath.in/posts/2025/09/degoogling-my-life/</guid>
+      <description>This is my journey of getting independence from the data overlords at Google, one service at a time.</description>
+    </item>
     <item>
       <title>Apex Domain and DNS</title>
       <link>https://blog.vaibhavnath.in/posts/2025/05/apex-domain-and-dns/</link>
